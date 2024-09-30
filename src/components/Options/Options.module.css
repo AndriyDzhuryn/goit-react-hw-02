@@ -1,0 +1,16 @@
+.btn_add_reviews_box {
+  padding-bottom: 20px;
+}
+
+.btn_reviews {
+  font-size: 26px;
+  font-weight: normal;
+  padding: 5px 10px;
+  border-radius: 10px;
+  border: 3px solid gray;
+  background-color: rgb(236, 239, 241);
+}
+
+.btn_reviews:not(:last-child) {
+  margin-right: 10px;
+}
